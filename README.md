@@ -22,5 +22,5 @@
 # Como Contribuir
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues para relatar bugs ou sugerir melhorias, e enviar pull requests para adicionar novas funcionalidades ou corrigir problemas
 
-##Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.

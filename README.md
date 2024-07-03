@@ -6,7 +6,7 @@
 
 ## Imagens do projeto:
 
-![Captura de tela 2024-07-02 223411.png](https://github.com/DevDaviDias/Meu-site-portf-lio/assets/157860462/efb93d4d-4973-46d0-965f-0e1794f7b79c) 
+!Captura de tela 2024-07-02 223411.png
 
 
 

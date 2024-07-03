@@ -2,7 +2,7 @@
 
 ### Este projeto é um clone funcional da calculadora do iPhone, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é replicar a interface e a funcionalidade da calculadora nativa do iOS, proporcionando uma experiência de usuário similar.
 
-### Vizualizar meu projeto :                
+### Vizualizar meu projeto : https://devdavidias.github.io/Clone-calculadora-iphone/               
 
 ## Imagens do projeto:
 

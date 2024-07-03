@@ -6,7 +6,7 @@
 
 ## Imagens do projeto:
 
-!![imagemdacalculadora](Captura de tela 2024-07-02 223411.png)
+![Captura de tela 2024-07-02 223411](https://github.com/DevDaviDias/Clone-calculadora-iphone/assets/157860462/ef9e186b-db3e-4667-90e2-999db045e23f)
 
 
 

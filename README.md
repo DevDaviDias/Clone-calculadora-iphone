@@ -6,7 +6,7 @@
 
 ## Imagens do projeto:
 
-!Captura de tela 2024-07-02 223411.png
+!![imagemdacalculadora](Captura de tela 2024-07-02 223411.png)
 
 
 

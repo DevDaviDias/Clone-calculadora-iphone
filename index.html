@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de iphone</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <div class="box">
+
+            <input type="text" class="display" id="display" readonly>
+            <div class="section1">
+              <button class="apagartexto" id="apagartexto" onclick="clearDisplay()">C</button>
+              <button class="negativotxt" id="negativotxt">+/-</button>
+              <button class="porcentagemtxt" id="porcentagemtxt">%</button>
+              <button class="txtdivisao" id="divisao" onclick="appendToDisplay('/')" >÷</button>
+            </div>
+            <div class="section2">
+                <button class="txt7" id="txt7"  onclick="appendToDisplay('7')">7</button>
+                <button class="txt8" id="txt8" onclick="appendToDisplay('8')">8</button>
+                <button class="txt9" id="txt9" onclick="appendToDisplay('9')" >9</button>
+                <button class="txtvezes" id="txtvezes"  onclick="appendToDisplay('*')">X</button>
+            </div>
+            <div class="section3">
+                <button class="txt4" id="txt4"  onclick="appendToDisplay('4')">4</button>
+                <button class="txt5" id="txt5" onclick="appendToDisplay('5')">5</button>
+                <button class="txt6" id="txt6" onclick="appendToDisplay('6')">6</button>
+                <button class="txtsubtracao" id="subtracao" onclick="appendToDisplay('-')">-</button>
+            </div>
+            <div class="section4">
+                <button class="txt1" id="txt1" onclick="appendToDisplay('1')">1</button>
+                <button class="txt2" id="txt2" onclick="appendToDisplay('2')">2</button>
+                <button class="txt3" id="txt3" onclick="appendToDisplay('3')">3</button>
+                <button class="txtAdicao" id="txtAdicao" onclick="appendToDisplay('+')">+</button>
+            </div>
+            
+            <div class="section5">
+                <button class="txt0" id="txt0" onclick="appendToDisplay('0')">0</button>
+                <button class="txtVirgula" id="txtVirgula" onclick="appendToDisplay('.')">,</button>
+                <button class="txtIgual" id="txtIgual"  onclick="calculateResult()">=</button>
+            </div>
+
+        </div>
+
+    </div>
+
+<script src="app.js"></script>
+
+
+    
+</body>
+</html>
